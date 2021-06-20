@@ -27,7 +27,11 @@
 <br>
 <br>
 
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SteliosGian&&show_icons=true&title_color=ffba2c&icon_color=bb2aacf&text_color=daf7dc&bg_color=191919&hide=issues,contrib">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteliosGian&langs_count=8)](https://github.com/SteliosGian/github-readme-stats)
+
+
+![Stelios's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteliosGian&hide=contribs,issues)
 
 
 [linkedin]: www.linkedin.com/in/stelios-giannikis
