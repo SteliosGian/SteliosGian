@@ -1,16 +1,21 @@
-### Hi there, I'm Stelios and welcome to my GitHub profile 👋
+## Howdy, I'm Stelios and welcome to my GitHub profile 👋
 
+Currently working as an ML Engineer. I'm originally from Greece, but living and working in Dublin, Ireland.
 
 - 🌱 I’m currently learning MLOps
 
-### Connect with me:
+
+### Connect with me
 
 [<img align="left" alt="SteliosGian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SteliosGian | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
+
+<br>
 <br>
 
-### Languages & Tools:
+
+### 🔧 Technologies & Tools
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][r]
@@ -21,18 +26,25 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudiocode]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][bash]
+[<img align="left" alt="MacOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />][]
+[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][]
+[<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />][]
+
 
 <br>
 <br>
-<br>
-<br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteliosGian&langs_count=8)](https://github.com/SteliosGian/github-readme-stats)
+### &#x1f4c8; GitHub Stats
 
 
-![Stelios's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteliosGian&hide=contribs,issues)
+<a href="https://github.com/SteliosGian/SteliosGian">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteliosGian&hide=Jupyter Notebook,PureBasic" />
+</a>
 
+<a href="https://github.com/SteliosGian/SteliosGian">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SteliosGian&hide=contribs,issues&show_icons=true&line_height=27&count_private=true" alt="Stelios's GitHub Stats" />
+</a>
 
 [linkedin]: www.linkedin.com/in/stelios-giannikis
 [gmail]: steliosgiannik@gmail.com
