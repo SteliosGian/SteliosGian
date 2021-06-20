@@ -26,6 +26,7 @@ Currently working as an ML Engineer. I'm originally from Greece, but living and 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudiocode]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][bash]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 
 
 <br>
@@ -43,6 +44,7 @@ Currently working as an ML Engineer. I'm originally from Greece, but living and 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SteliosGian&hide=contribs,issues&show_icons=true&line_height=27&count_private=true" alt="Stelios's GitHub Stats" />
 </a>
 
+
 [linkedin]: www.linkedin.com/in/stelios-giannikis
 [gmail]: steliosgiannik@gmail.com
 [bash]: https://www.gnu.org/software/bash/
@@ -54,3 +56,5 @@ Currently working as an ML Engineer. I'm originally from Greece, but living and 
 [scala]: https://www.scala-lang.org/
 [docker]: https://www.docker.com/
 [spark]: https://spark.apache.org/
+[sql]: https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15
+
