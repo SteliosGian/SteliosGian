@@ -1,6 +1,6 @@
 ## Howdy, I'm Stelios and welcome to my GitHub profile 👋
 
-Currently working as an ML Engineer. I'm originally from Greece, but living and working in Dublin, Ireland.
+Currently working as an ML Engineer in Athens, Greece.
 
 - 🌱 I’m currently learning MLOps
 
