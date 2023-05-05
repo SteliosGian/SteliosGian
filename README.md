@@ -33,11 +33,12 @@ Currently working as an ML Engineer in Athens, Greece.
 
 <a href="https://github.com/SteliosGian/SteliosGian">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteliosGian&hide=Jupyter Notebook,PureBasic" />
-</a>
+</a>  
+
 
 <a href="https://github.com/SteliosGian/SteliosGian">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SteliosGian&hide=contribs,issues&show_icons=true&line_height=27&count_private=true" alt="Stelios's GitHub Stats" />
-</a>
+</a>  
 
 
 [linkedin]: www.linkedin.com/in/stelios-giannikis
