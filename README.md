@@ -1,7 +1,7 @@
 <h1 align="center">Howdy, I'm Stelios and welcome to my GitHub profile 👋</h1>
 <h3 align="center">Passionate about Machine Learning, MLOps, & Data Engineering</h3>
 
-- 🔭 Currently working as an **ML Engineer in Athens, Greece.**
+- 🔭 Currently working as a **Senior ML Engineer in Athens, Greece.**
 
 - 🌱 Exploring different MLOps & orchestration tools such as **Seldon, MLFlow, Mage, & Prefect**
 
