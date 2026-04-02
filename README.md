@@ -1,42 +1,48 @@
-<h1 align="center">👋 Howdy, I'm Stelios!</h1>
-<h3 align="center">Senior ML & MLOps Engineer | Building scalable, production-grade AI systems</h3>
-
----
-
-### 🚀 About Me
-
-- 💼 Senior ML/MLOps Engineer based in **Athens, Greece**
-- 🧠 Passionate about **Machine Learning**, **MLOps**, and **scalable model deployment**
-- ⚙️ Focused on **reliability, reproducibility, and automation** in ML systems
-- 🌐 Exploring **LLM infrastructure**, **multi-model serving**, and **observability**
-
----
-
-### 🧰 Core Tech Stack
-
-**MLOps & Orchestration**  
-Kubernetes · ArgoCD · Argo Workflows · Apache Airflow · GitLab CI · Docker
-
-**Machine Learning & Serving**  
-Python · PyTorch · TensorFlow · Hugging Face Transformers · NVIDIA Triton Inference Server · FastAPI
-
-**Infrastructure & Monitoring**  
-AWS · Grafana · Linux · Bash
-
----
-
-### 📊 GitHub Stats
-
+<h1 align="center">Hey, I'm Stelios 👋</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=steliosgian&show_icons=true&theme=radical" alt="steliosgian-stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=steliosgian&layout=compact&hide=PureBasic,SAS&theme=radical" alt="steliosgian-langs" />
+  Senior ML & MLOps Engineer from Athens, Greece 🇬🇷
+</p>
+<p align="center">
+  I build ML systems that are scalable, reliable, and actually pleasant to run in production.
 </p>
 
----
+## 🚀 A Little About Me
 
-### 🤝 Connect with Me
+- 🧠 I work across machine learning, MLOps, platform engineering, and model serving
+- ⚙️ I care a lot about reproducibility, observability, automation, and clean delivery pipelines
+- 🤖 Lately I’ve been spending a lot of time around LLM infrastructure and multi-model systems
+- 🛠️ I enjoy turning experimental ML workflows into production-ready systems
+
+## 🧰 Tech I Use A Lot
+
+- **ML & AI:** Python, PyTorch, TensorFlow, Hugging Face Transformers
+- **Serving:** FastAPI, NVIDIA Triton Inference Server
+- **Platform & Orchestration:** Kubernetes, Docker, ArgoCD, Argo Workflows, Apache Airflow
+- **Infra & Ops:** AWS, GitLab CI, Grafana, Linux, Bash
+
+## 🌱 What I’m Into Right Now
+
+- LLM infrastructure
+- Scalable inference and serving patterns
+- Observability for ML systems
+- Better deployment workflows for production AI
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=steliosgian&show_icons=true&theme=radical&hide_border=true"
+    alt="steliosgian GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=steliosgian&layout=compact&hide=PureBasic,SAS&theme=radical&hide_border=true"
+    alt="steliosgian top languages"
+  />
+</p>
+
+## 🤝 Let’s Connect
 
 - [💼 LinkedIn](https://linkedin.com/in/stelios-giannikis)
 - [✉️ Email](mailto:steliosgiannik@gmail.com)
-
----
