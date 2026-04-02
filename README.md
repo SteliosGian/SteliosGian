@@ -27,21 +27,6 @@
 - Observability for ML systems
 - Better deployment workflows for production AI
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=steliosgian&show_icons=true&theme=radical&hide_border=true"
-    alt="steliosgian GitHub stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=steliosgian&layout=compact&hide=PureBasic,SAS&theme=radical&hide_border=true"
-    alt="steliosgian top languages"
-  />
-</p>
-
 ## 🤝 Let’s Connect
 
 - [💼 LinkedIn](https://linkedin.com/in/stelios-giannikis)
